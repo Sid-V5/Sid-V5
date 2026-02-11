@@ -1,4 +1,4 @@
-# Hey, I'm Sid 👋
+# 👋
 
 Agent orchestration. Mostly into AI/ML and figuring out how to turn models into actual usable tools.
 
