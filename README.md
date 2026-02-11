@@ -1,35 +1,54 @@
 # Hey, I'm Sid 👋
 
-I'm a full-stack developer who builds things end-to-end — from low-level system hooks to production web apps. I like working across the stack and picking up whatever tech a project needs.
+I build software across the stack — from Win32 system hooks in Python to production SaaS apps on Vercel. Most of what I work on sits at the intersection of AI and practical tools that people actually use.
 
-## What I'm working on
-
-🌱 **[Propagains](https://propagains.vercel.app)** — A SaaS I built solo for rare plant collectors. Tracks lineage, calculates propagation ROI, and generates QR verification cards so buyers can verify genetics. Built with Next.js, Prisma, PostgreSQL, and deployed on Vercel.
-
-## Projects
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [GestureHud](https://github.com/Sid-V5/GestureHud) | Hands-free mouse control using hand gestures via webcam. Real-time tracking with 1-Euro filtering and a hysteresis state machine for gesture detection. | Python, MediaPipe, OpenCV, Win32 API |
-| [UjjwalBhavishya](https://github.com/Sid-V5/UjjwalBhavishya) | Citizen services portal with AI chatbot, scheme eligibility checking, and real-time notifications. | TypeScript, React, Express, PostgreSQL, WebSocket, Gemini API |
-| [EchoSynth](https://github.com/Sid-V5/EchoSynth) | Voice synthesis API with cloning capabilities. OpenAI-compatible endpoint, Docker-ready. | Python, FastAPI, React, Docker |
-| [rpa_bot](https://github.com/Sid-V5/rpa_bot) | Extracts structured data from PDF invoices using OCR, validates it, and generates CSV reports. | Python, pdfplumber, EasyOCR, Docker |
-
-## Tech I use
-
-**Languages:** Python, TypeScript, JavaScript  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express, FastAPI  
-**Data:** PostgreSQL, Prisma, NeonDB, Drizzle  
-**AI/ML:** MediaPipe, OpenCV, Gemini API, EasyOCR  
-**Infra:** Docker, Vercel, Git  
-
-## Misc
-
-- I like building things that solve real problems, even if the domain is niche
-- Most of my projects start from curiosity — GestureHud came from wanting to control my PC without touching it
-- Currently exploring computer vision and AI integration in practical tools
+I lean heavily on AI to accelerate my workflow. Cursor, Windsurf, agentic coding — I treat these as force multipliers, not crutches. The result is I ship fast and iterate faster.
 
 ---
 
-*Open to internships and collaborations. Reach out if something here interests you.*
+### 🌱 Propagains — Solo SaaS
+
+**[propagains.vercel.app](https://propagains.vercel.app)** — A niche SaaS I designed, built, and shipped solo for rare plant collectors. Tracks mother plant lineage, calculates propagation ROI, and generates QR-verified genetics cards for buyers.
+
+`Next.js` · `TypeScript` · `Supabase` · `Drizzle ORM` · `Tailwind CSS` · `Vercel`
+
+---
+
+### 🔧 Open Source Projects
+
+**[GestureHud](https://github.com/Sid-V5/GestureHud)** — Hands-free mouse control via webcam. Real-time hand tracking with a 1-Euro filter for jitter reduction and a hysteresis state machine for gesture recognition. Injects input events at the OS level using Win32 SendInput.  
+`Python` · `MediaPipe` · `OpenCV` · `Win32 API` · `ctypes`
+
+**[UjjwalBhavishya](https://github.com/Sid-V5/UjjwalBhavishya)** — AI-powered citizen portal that matches users to government welfare schemes. Features a Gemini-powered multilingual chatbot, eligibility engine, and real-time WebSocket notifications.  
+`TypeScript` · `React` · `Express` · `PostgreSQL` · `WebSocket` · `Gemini API` · `Zod`
+
+**[EchoSynth](https://github.com/Sid-V5/EchoSynth)** — Voice synthesis and cloning API. OpenAI-compatible TTS endpoint with a React frontend, Docker-ready deployment.  
+`Python` · `FastAPI` · `React` · `Docker`
+
+**[rpa_bot](https://github.com/Sid-V5/rpa_bot)** — RPA bot that extracts structured data from PDF invoices using OCR, validates fields, and generates reports. Dockerized with YAML-based config.  
+`Python` · `pdfplumber` · `EasyOCR` · `Docker` · `YAML`
+
+---
+
+### ⚡ What I work with
+
+| | |
+|---|---|
+| **AI / ML** | LangGraph, LangChain, Gemini API, MediaPipe, OpenCV, EasyOCR, voice cloning |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Framer Motion |
+| **Backend** | Node.js, Express, FastAPI, WebSocket |
+| **Data** | PostgreSQL, Supabase, Prisma, Drizzle ORM, NeonDB, SQLite |
+| **Infra** | Docker, Vercel, Git |
+| **AI Tooling** | Cursor, Windsurf, agentic workflows, prompt engineering |
+
+---
+
+### 📌 Currently
+
+- Exploring AI agent architectures (LangGraph, tool-use patterns, memory systems)
+- Building productivity tools that integrate LLMs into real workflows
+- Looking for internships where I can ship things that matter
+
+---
+
+*If something here caught your eye, reach out.*
