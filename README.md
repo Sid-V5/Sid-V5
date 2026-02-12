@@ -1,6 +1,7 @@
 # 👋
  
 Agent orchestration. Mostly into AI/ML and figuring out how to turn models into actual usable tools, but my eye is always catching new tech. 
+
 I learn at the speed of my curiosity if an opportunity asks for it, I'll master it.
 
 Hobbies: • Metaphysics • Badminton • Overthinking 
