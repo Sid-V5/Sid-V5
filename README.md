@@ -2,8 +2,8 @@
 
 Agent orchestration. Mostly into AI/ML and figuring out how to turn models into actual usable tools.
 
-Hobbies: • Metaphysics • Badminton • Overthinking
-Lore: Past-life Minecraft modder & server dev.
+Hobbies: • Metaphysics • Badminton • Overthinking 
+| Lore: Past-life Minecraft modder & server dev.
 
 ---
 
